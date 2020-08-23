@@ -49,4 +49,4 @@ testdata
 
 And that's all you need to know! Get out there and make some awesome stuff in ZeroMQ; if you ever need to get the Z85 encoding of a public key, `z85` will be waiting.
 
-Thanks to [tilinna](https://github.com/tilinna) for their [package](https:github.com/tilinna/z85) which provides the actual Z85 functionality for this tool.
+Thanks to [tilinna](https://github.com/tilinna) for their [package](https://github.com/tilinna/z85) which provides the actual Z85 functionality for this tool.
